@@ -1,6 +1,7 @@
 <?php
 
 function printFabonnaci(int $num) {
+<<<<<<< HEAD
     if ($num <= 2) {
         return 2;
     }
@@ -11,3 +12,7 @@ function printFabonnaci(int $num) {
 echo printFabonnaci(5);
 
 // 0 1 1 2 3 5 
+=======
+    
+}
+>>>>>>> parent of 4c19a72 (added logic)
