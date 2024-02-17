@@ -1,7 +1,9 @@
 <?php
 
 function printFabonnaci(int $num) {
-    
+        echo $num;
+        //
+        print('he');
 }
 
 //hi
